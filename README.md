@@ -2,7 +2,7 @@
 
 An interactive educational blog about how messy data becomes interpretable evidence.
 
-Live deployment: [[https://interactive-blog-statistics.onrender.com](https://aaron-zeller.github.io/statistics-blog.io/)]([https://interactive-blog-statistics.onrender.com](https://aaron-zeller.github.io/statistics-blog.io/))
+Live deployment: [https://aaron-zeller.github.io/statistics-blog.io/](https://aaron-zeller.github.io/statistics-blog.io/)
 
 ## Overview
 
